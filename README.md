@@ -1,6 +1,2 @@
 # Clone-app-ReactNative 
-Projeto React Native 
-Clone de App da Netflix tela de Login e tela Home 
-Apresentando rotas entre as telas 
-Projeto produzido utlizando Expo 
-Possui interatividade com os cards
+Projeto React Native, clone de App da Netflix tela de Login e tela Home, apresentando rotas entre as telas, projeto produzido utlizando Expo, possui interatividade com os cards!
